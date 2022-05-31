@@ -1,5 +1,5 @@
 {
-  "css": "https://github.com/woocommerce/storefront.git",
+  "css": "https://github.com/woocommerce/storefront.git\n",
   "html_head": "",
   "html_body": "https://github.com/woocommerce/storefront.git"
 }
